@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2022 - Present",
+    duration: "2022 - 2025",
     institution: "Eminent College of Management & Technology",
   },
   {
@@ -17,4 +17,5 @@ export const educations = [
     duration: "2014 - 2019",
     institution: "Nibadhai High School",
   }
+
 ]
